@@ -4,7 +4,6 @@
 - i have remade my trainer's(teacher) game in python, its called **Wingy War** available on my itch : https://mateideveloper.itch.io/
 - trainer's game :  https://play.google.com/store/apps/details?id=abb.ChrisGames.WingyWar&hl=en (not available)
 # ⚡ Upcoming Projects:
-- Wingy Jump (PyGame)
 - ~~VolumeMxr (C#)~~ Done. 
 
 <!---
